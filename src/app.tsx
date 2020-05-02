@@ -1,9 +1,11 @@
 import React from 'react';
 import { render } from 'react-dom';
+import './modules/main.scss';
+import ShareLink from './components/sharelink';
 
 const App = () => (
-  <div className="">
-    <span role="img" aria-label="parcel">📦</span>
+  <div className="ui-daily">
+    <ShareLink />
   </div>
 );
 

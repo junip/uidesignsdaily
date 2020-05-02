@@ -1,0 +1,6 @@
+.ui-daily {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+@import '../components/sharelink.scss'
