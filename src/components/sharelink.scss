@@ -9,11 +9,13 @@
     border-radius: 10px;
     background-color: #FFFFFF;
     .modal-header {
-      font-weight: 600;
+      font-weight: bold;
       margin-bottom: 12px;
+      font-size: 22px;
     }
     .modal-description {
       width: 407px;
+      font-size: 18px;
     }
     .input-box {
       display: grid;
@@ -47,10 +49,12 @@
       border-radius: 6px;
       .content-header {
         padding-top: 22px;
-        font-weight: 600;
+        font-weight: bold;
+        font-size: 14px;
       }
       .content-description {
         padding-top: 22px;
+        font-size: 14px;
         padding-bottom: 22px;
         width: 416px;
       }
