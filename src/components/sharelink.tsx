@@ -4,7 +4,7 @@ const shareLink = () => (
   <div className="share-link">
     <div className="container">
       <div className="data-div">
-        <div className="modal-header">Share your link</div>
+        <div className="modal-header">Share something awesome</div>
         <div className="modal-description">
           New and awesome design content will be added to our website,
           and may even end up in our weekly newsletter.
