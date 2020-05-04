@@ -4,6 +4,7 @@
   "description": "Collection of React components designs from uidesignsdaily.com",
   "main": "index.js",
   "scripts": {
+    "build": "parcel build src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "parcel --open src/index.html",
     "remove-cache": "rm -rf .cache"
